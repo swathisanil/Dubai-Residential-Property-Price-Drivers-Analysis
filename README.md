@@ -145,6 +145,10 @@ Key pivot analyses included:
 
 # Key Market Insights
 
+## Property Price Distribution
+
+![Dubai Property Price Distribution](Images/Price_ditsribution.png)
+
 ## Residential Market Structure
 
 **Mid-market demand concentrated in 1–3 bedroom units**
