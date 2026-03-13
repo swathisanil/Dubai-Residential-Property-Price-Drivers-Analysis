@@ -145,7 +145,9 @@ Key pivot analyses included:
 
 # Key Market Insights
 
-## Property Price Distribution
+# Market Price Distribution
+
+The majority of property listings fall within the mid-market range, while luxury properties represent a smaller portion of the market.
 
 ![Dubai Property Price Distribution](Images/Price_ditsribution.png)
 
