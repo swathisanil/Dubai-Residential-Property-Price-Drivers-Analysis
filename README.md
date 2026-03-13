@@ -12,9 +12,9 @@ This project conducts an **exploratory data analysis of Dubai property listings*
 
 The analysis focuses on three core areas:
 
-• **Market structure** – identifying dominant residential price segments
-• **Location influence** – understanding how neighborhood location impacts property value
-• **Amenity impact** – evaluating how lifestyle features influence pricing
+* **Market structure** – identifying dominant residential price segments
+* **Location influence** – understanding how neighborhood location impacts property value
+* **Amenity impact** – evaluating how lifestyle features influence pricing
 
 Using Microsoft Excel, the dataset was explored through **data cleaning, lookup functions, statistical analysis, and pivot table investigations** to extract meaningful insights about the Dubai property market.
 
@@ -22,11 +22,11 @@ Using Microsoft Excel, the dataset was explored through **data cleaning, lookup 
 
 This investigation focuses on answering several key analytical questions:
 
-• Which property segments dominate Dubai’s residential market?
-• How do prices vary across neighborhoods?
-• Do lifestyle amenities significantly influence property value?
-• How does bedroom count affect property pricing?
-• What factors distinguish luxury properties from mid-market housing?
+* Which property segments dominate Dubai’s residential market?
+* How do prices vary across neighborhoods?
+* Do lifestyle amenities significantly influence property value?
+* How does bedroom count affect property pricing?
+* What factors distinguish luxury properties from mid-market housing?
 
 
 # Dataset
